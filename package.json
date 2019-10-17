@@ -1,0 +1,22 @@
+{
+  "name": "drag-store",
+  "version": "1.0.0",
+  "description": "drag store nigas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeleshkoAlex/drag-store-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeleshkoAlex/drag-store-back/issues"
+  },
+  "homepage": "https://github.com/MeleshkoAlex/drag-store-back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

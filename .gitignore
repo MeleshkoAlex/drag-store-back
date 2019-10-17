@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+.idea
+logs
+uploads
+package-lock.json
+config/client_host.js
+config/db.js
+config/server.js
+config/email.js
+services/telegram/config/bot_config.js
